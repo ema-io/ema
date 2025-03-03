@@ -5,6 +5,6 @@
 </br>
 </br>
 <kbd>
-<img src="https://github.com/dimastatz/whisper-flow/blob/da8b67c6180566b987854b2fb94670fee92e6682/docs/imgs/whisper-flow.png?raw=true" width="256px"> 
+<img src="https://github.com/ema-io/ema/blob/main/ema-io.png?raw=true" width="256px"> 
 </kbd>
 </div>
