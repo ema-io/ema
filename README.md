@@ -5,6 +5,6 @@
 </br>
 </br>
 <kbd>
-<img src="https://github.com/ema-io/ema/docs/imgs/blob/main/ema-io.png?raw=true" width="256px"> 
+<img src="https://github.com/ema-io/ema/blob/main/docs/imgs/ema-io.png?raw=true" width="256px"> 
 </kbd>
 </div>
